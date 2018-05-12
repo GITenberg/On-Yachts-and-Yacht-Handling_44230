@@ -1,0 +1,29 @@
+_repo: On-Yachts-and-Yacht-Handling_44230
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Day, Thomas Fleming
+    birthdate: 1861
+    deathdate: 1927
+    gutenberg_agent_id: '42380'
+    url: http://www.gutenberg.org/2009/agents/42380
+description: ''
+gutenberg_issued: '2013-11-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44230'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Yachting'
+- !lcc 'GV'
+tableOfContents: On this book -- On seamanship -- On boats in general -- On one-man
+  boats -- On sea-going boats -- On rigs -- On sail as an auxiliary -- On reefing
+  -- On anchors and anchoring -- On rigging -- On stranding.
+title: On Yachts and Yacht Handling
+url: http://www.gutenberg.org/ebooks/44230
